@@ -1,0 +1,67 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dC:/Users/DELL/Desktop/QuestaSim
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+T_opt
+Z1 VLD7Zj=YS<;SS^ETb3aALS2
+Z2 04 8 4 work flipflop fast 0
+Z3 =1-10653067c9ab-668fe17e-2a5-3f94
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt
+Z6 OL;O;10.2c;57
+Z7 dC:/Users/DELL/Desktop/QuestaSim
+Z8 !s110 1720705407
+vflipflop
+Z9 !s110 1720707894
+!i10b 1
+Z10 !s100 iNgI@zN2BjNdF^]TD^iHz3
+I=he]LT;LfElh6NfKfoUG;1
+Z11 V`JN@9S9cnhjKRR_L]QIcM3
+Z12 dC:/Users/DELL/Desktop/ICTC
+Z13 w1720704781
+8C:\Users\DELL\Desktop\ICTC\flipflop\flipflop.v
+FC:\Users\DELL\Desktop\ICTC\flipflop\flipflop.v
+L0 1
+Z14 OL;L;10.2c;57
+r1
+!s85 0
+31
+!s108 1720707894.321000
+!s107 C:\Users\DELL\Desktop\ICTC\flipflop\flipflop.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:\Users\DELL\Desktop\ICTC\flipflop\flipflop.v|
+!i111 0
+Z15 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+vflipflop_tb
+Z16 I8ZK;7oYPW[Rg^JJLkK@Ml1
+R11
+R12
+Z17 w1720707889
+Z18 8C:\Users\DELL\Desktop\ICTC\flipflop\flipflop_tb.v
+Z19 FC:\Users\DELL\Desktop\ICTC\flipflop\flipflop_tb.v
+L0 2
+R14
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|-vopt|C:\Users\DELL\Desktop\ICTC\flipflop\flipflop_tb.v|
+R15
+R9
+!i10b 1
+Z21 !s100 0KZ`D6:DWYGb`ZSb5zL422
+!s85 0
+Z22 !s108 1720707894.221000
+Z23 !s107 C:\Users\DELL\Desktop\ICTC\flipflop\flipflop_tb.v|
+!i111 0
+Tflipflop_tb_opt
+Z24 VZ;KVCdA9_;0L^QBa@NU5U3
+Z25 04 11 4 work flipflop_tb fast 0
+o+acc
+Z26 nflipflop_tb_opt
+R6
+R7
+Z27 !s110 1720706626

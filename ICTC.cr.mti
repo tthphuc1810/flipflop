@@ -1,0 +1,15 @@
+C:/Users/DELL/Desktop/ICTC/flipflop/flipflop_tb.v {1 {vlog -work work -vopt {C:\Users\DELL\Desktop\ICTC\flipflop\flipflop_tb.v}
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module flipflop_tb
+
+Top level modules:
+	flipflop_tb
+
+} {} {}} C:/Users/DELL/Desktop/ICTC/flipflop/flipflop.v {1 {vlog -work work -vopt {C:\Users\DELL\Desktop\ICTC\flipflop\flipflop.v}
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module flipflop
+
+Top level modules:
+	flipflop
+
+} {} {}}
