@@ -19,13 +19,13 @@ module flipflop_tb;
         in2 = 1'b0;
         #100;
         @(posedge clk);
-        #1 in1 = 1;
+      #1ps   in1 = 1;
         @(posedge clk);
-        #1 in1 = 0;
+       #1ps   in1 = 0;
         @(posedge clk);
-        #1 in2 = 1;
+      #1ps   in2 = 1;
         @(posedge clk);
-        #1 in2 = 0;
+      #1ps   in2 = 0;
         
         #100;
         $finish;
@@ -35,7 +35,7 @@ module flipflop_tb;
     initial begin
         clk = 0;
         forever begin 
-            #25 clk = ~clk;
+             clk = #25 ~clk;
         end
     end
 
